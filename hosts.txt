@@ -24339,3 +24339,5 @@
 0.0.0.0 spot.im
 0.0.0.0 wpnjs.com
 0.0.0.0 best.momzr.com
+0.0.0.0 apus.tech
+0.0.0.0 fd7qz88ckd.com
