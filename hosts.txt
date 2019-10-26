@@ -24348,3 +24348,5 @@
 0.0.0.0 trafficjunky.com
 0.0.0.0 jwpsrv.com
 0.0.0.0 clprr.com
+0.0.0.0 serverbid.com
+0.0.0.0 rhombusads.com
