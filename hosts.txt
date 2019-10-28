@@ -24350,3 +24350,5 @@
 0.0.0.0 clprr.com
 0.0.0.0 serverbid.com
 0.0.0.0 rhombusads.com
+0.0.0.0 ad.kissanime.ac
+0.0.0.0 ad.kisscartoon.is
