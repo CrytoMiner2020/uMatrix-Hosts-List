@@ -18325,17 +18325,9 @@
 0.0.0.0	s.xp1.ru4.com
 0.0.0.0	s.youtube.com
 0.0.0.0	s.zeroredirect.com
-0.0.0.0	s01-delivery.addynamo.net
-0.0.0.0	s01.delivery.addynamo.com
-0.0.0.0	s01.flagcounter.com
-0.0.0.0	s02.flagcounter.com
-0.0.0.0	s03.flagcounter.com
-0.0.0.0	s04.flagcounter.com
-0.0.0.0	s05.flagcounter.com
-0.0.0.0	s06.flagcounter.com
-0.0.0.0	s07.flagcounter.com
-0.0.0.0	s08.flagcounter.com
-0.0.0.0	s09.flagcounter.com
+0.0.0.0	addynamo.net
+0.0.0.0	addynamo.com
+0.0.0.0	flagcounter.com
 0.0.0.0	s1-cdn.futuriti.com
 0.0.0.0	s1.adform.net
 0.0.0.0	s1.amateurcommunity.com
@@ -24359,3 +24351,5 @@
 0.0.0.0 perimeterx.net
 0.0.0.0 tubi.io
 0.0.0.0 ad.animehub.ac
+0.0.0.0 antburape.club
+0.0.0.0 cataspboa.site
