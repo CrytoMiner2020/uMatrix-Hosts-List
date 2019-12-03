@@ -147,3 +147,4 @@
 0.0.0.0 antburape.club
 0.0.0.0 cataspboa.site
 0.0.0.0 megaphone.fm
+0.0.0.0 sendtonews.com
