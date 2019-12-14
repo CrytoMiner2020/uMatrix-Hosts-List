@@ -149,5 +149,5 @@
 0.0.0.0 megaphone.fm
 0.0.0.0 sendtonews.com
 0.0.0.0 sentry-cdn.com
-0.0.0.0 talk-auth.washingtonpost.com
 0.0.0.0 theporndude.com
+0.0.0.0 dafont.com
