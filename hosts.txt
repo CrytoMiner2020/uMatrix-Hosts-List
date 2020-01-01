@@ -152,3 +152,5 @@
 0.0.0.0 theporndude.com
 0.0.0.0 dafont.com
 0.0.0.0 mail-ads.google.com
+0.0.0.0 squareup.com
+0.0.0.0 squareupsandbox.com
