@@ -172,3 +172,4 @@
 0.0.0.0 eu-west-1.elb.amazonaws.com
 0.0.0.0 improving.duckduckgo.com
 0.0.0.0 cadspmz.com
+0.0.0.0 collector3.xhamster.desi
