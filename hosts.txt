@@ -178,3 +178,4 @@
 0.0.0.0 stripst.com
 0.0.0.0 xhamsterlive.com
 0.0.0.0 ticksel.com
+0.0.0.0 cloudflareinsights.com
