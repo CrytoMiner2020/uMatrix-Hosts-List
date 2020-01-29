@@ -180,3 +180,4 @@
 0.0.0.0 ticksel.com
 0.0.0.0 cloudflareinsights.com
 0.0.0.0 wheredoyoucomefrom.ovh
+0.0.0.0 anon-stats.eff.org
