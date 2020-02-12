@@ -186,3 +186,5 @@
 0.0.0.0 sp-prod.net
 0.0.0.0 bilsyndication.com
 0.0.0.0 vliplatform.com
+0.0.0.0 g02.ign.com
+0.0.0.0 g01.ign.com
