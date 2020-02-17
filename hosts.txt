@@ -188,3 +188,4 @@
 0.0.0.0 vliplatform.com
 0.0.0.0 g02.ign.com
 0.0.0.0 g01.ign.com
+0.0.0.0 scroll.com
