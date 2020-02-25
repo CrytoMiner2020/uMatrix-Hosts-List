@@ -190,3 +190,4 @@
 0.0.0.0 g01.ign.com
 0.0.0.0 scroll.com
 0.0.0.0 concert.io
+0.0.0.0 tinypass.com
