@@ -193,3 +193,4 @@
 0.0.0.0 tinypass.com
 0.0.0.0 gadspms.com
 0.0.0.0 consensu.org
+0.0.0.0 placeholder.com
