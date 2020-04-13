@@ -194,3 +194,5 @@
 0.0.0.0 gadspms.com
 0.0.0.0 consensu.org
 0.0.0.0 placeholder.com
+0.0.0.0 steadyhq.com
+0.0.0.0 scw.systems
